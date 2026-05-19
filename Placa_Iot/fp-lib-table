@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "resistencias") (type "KiCad") (uri "C:/Users/mcruz.torcas/Documents/Curso PCB/initial-commit/Footprints/resistencias.pretty") (options "") (descr ""))
+)
