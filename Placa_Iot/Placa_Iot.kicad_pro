@@ -261,7 +261,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "resistor"
+    ]
   },
   "meta": {
     "filename": "Placa_Iot.kicad_pro",
