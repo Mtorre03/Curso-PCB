@@ -1,3 +1,6 @@
 [submodule "initial-commit"]
 	path = initial-commit
 	url = https://github.com/Mtorre03/initial-commit.git
+[submodule "HardwareLibrary"]
+	path = HardwareLibrary
+	url = https://github.com/reyantonalvaro/HardwareLibrary.git
